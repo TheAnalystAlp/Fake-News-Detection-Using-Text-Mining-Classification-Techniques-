@@ -1,5 +1,5 @@
 <img width="721" height="107" alt="Fake News Banner" src="https://github.com/user-attachments/assets/591cc2d1-bcce-4563-ac42-1a18da0fb707" />
-<img width="721" height="107" alt="Fake News Banner" src="https://github.com/user-attachments/assets/7a2d4cdb-2403-4ef6-96ac-98c52021ec8e" />
+<img width="1000" height="500" alt="Fake News Banner" src="https://github.com/user-attachments/assets/7a2d4cdb-2403-4ef6-96ac-98c52021ec8e" />
 
 Full report:https://github.com/TheAnalystAlp/Fake-News-Detection-Using-Text-Mining-Classification-Techniques-/blob/main/Fake%20News%20Detection%20Using%20Text%20Mining%26Classification%20Techniques.pdf
 

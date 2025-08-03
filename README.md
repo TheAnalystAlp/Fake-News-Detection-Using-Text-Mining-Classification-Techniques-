@@ -38,6 +38,10 @@ b.Random Forest Classifier
 The Logistic Regression model achieves 66.8% accuracy with a higher recall rate, meaning it’s more effective at detecting fake news than the other alternatives tested.
 While promising, the model still needs improvement to reach real-world reliability thresholds.
 
+
+
+
+
 # 6.Limitations
 * Loss of Nuance: Binary classification removes subtlety from the original 6-level labels.
 * Semantic Blindness: TF-IDF approach ignores context, word order, and meaning (e.g., “not true” vs. “true”).
@@ -61,7 +65,7 @@ While promising, the model still needs improvement to reach real-world reliabili
 By detecting fake news and comments, we aim to address real-world problems such as misinformation spread,brand reputation damage, market manipulation, and inefficient content moderation and fraudulent queries..
 
 * Protects Brand Reputation: Monitors reviews and 	** **social media platforms** to detect fake claims and review bombing, enabling timely PR responses.
-* Improves Content Moderation: Automatically flags suspicious or misleading posts on 	**social platforms** and 	** **e-commerce sites	** to reduce misinformation and fraud.
+* Improves Content Moderation: Automatically flags suspicious or misleading posts on 	**social platforms** and 	**e-commerce sites** to reduce misinformation and fraud.
 * Enhances Financial Integrity: Detects fake news on 	**financial websites** that may manipulate stock prices, helping safeguard investors and analysts.
 * Supports Media Verification: Assists 	**journalists** and fact-checkers by pre-screening political statements for quicker and more accurate verification.
 * Streamlines Customer Support: Identifies fraudulent or irrelevant queries early, optimizing 	**ticket handling processes** and ensuring regulatory compliance.

@@ -2,14 +2,14 @@
 
 # 1.Background of the project
 
-In today’s digital landscape, misinformation and fake news spread rapidly, impacting public opinion, brand reputation, and even financial markets. Political statements, in particular, are often scrutinized, and misleading content can have serious social and economic consequences. Our company needs a reliable solution to automatically flag potentially false or misleading political statements to support decision-making and protect stakeholders.
+In today’s digital landscape, misinformation and fake news spread rapidly, impacting public opinion, brand reputation, and even financial markets. Political statements, in particular, are often scrutinized, and misleading content can have serious social and economic consequences. Our public relations company needs a reliable solution to automatically flag potentially false or misleading political statements to support decision-making and protect stakeholders.
 
-# 2.Problem Statement
-* Manual fact-checking is time-consuming, costly, and unable to keep up with the volume of political content online.
-* Misinformation damages public trust and can lead to reputational risk and financial loss.
+# 2.Problems the is Company facing
+* Manual fact-checking is time-consuming, costly, and unable to keep up with the volume ofcontent online.
+* Misinformation damages public trust and can lead to reputational risk.
 * Current tools lack specificity or accuracy in identifying fake news in political texts.
  
-# 3.Methodology
+# 3.Method of Approach 
 a.Data Preprocessing
 * HTML tag cleaning using BeautifulSoup
 * Text normalization and noise removal (e.g., mentions, URLs, special characters)
@@ -24,7 +24,7 @@ b. Feature Extraction
 c. Class Imbalance Handling
 *  MOTE applied to training set to counter class imbalance
 
-# 4.Models Built
+# 4.Models Built 
 a.Logistic Regression
 * Performs well on high-dimensional sparse data
 * Interpretable and computationally efficient
@@ -35,14 +35,14 @@ b.Random Forest Classifier
 * Tuned using GridSearchCV with 5-fold cross-validation
 
 # 5.Model Performances&Conclusion
-The Logistic Regression model achieves 66.8% accuracy with a higher recall rate, meaning it’s more effective at detecting fake news than alternatives tested.
+The Logistic Regression model achieves 66.8% accuracy with a higher recall rate, meaning it’s more effective at detecting fake news than the other alternatives tested.
 While promising, the model still needs improvement to reach real-world reliability thresholds.
 
 # 6.Limitations
 * Loss of Nuance: Binary classification removes subtlety from the original 6-level labels.
-* Semantic Blindness: TF-IDF ignores context, word order, and meaning (e.g., “not true” vs. “true”).
+* Semantic Blindness: TF-IDF approach ignores context, word order, and meaning (e.g., “not true” vs. “true”).
 * Data Imbalance: The fake and true classes were unevenly distributed; SMOTE was used to address this.
-* Number Removal: Important numeric information (e.g., death tolls) was lost during preprocessing.
+* Number Removal: Important numeric information (e.g., audience numbers) was lost during preprocessing.
 
 # 7.Future Improvements
 * Use contextual embeddings like Word2Vec, GloVe, or transformer models (e.g., BERT) for semantic understanding.
@@ -57,15 +57,15 @@ While promising, the model still needs improvement to reach real-world reliabili
 * BeautifulSoup
 * Machine Learning Algorithms
 
-# 9.Benefits to the Business World
+# 9.Benefits to the Business World-(If applied)
+By detecting fake news and comments, we aim to address real-world problems such as misinformation spread,brand reputation damage, market manipulation, and inefficient content moderation and fraudulent queries..
 
-By detecting fake news and comments, we aim to address real-world problems such as misinformation spread, brand reputation damage, market manipulation, and inefficient content moderation and fraudulent queries..
+* Protects Brand Reputation: Monitors reviews and 	** **social media platforms** to detect fake claims and review bombing, enabling timely PR responses.
+* Improves Content Moderation: Automatically flags suspicious or misleading posts on 	**social platforms** and 	** **e-commerce sites	** to reduce misinformation and fraud.
+* Enhances Financial Integrity: Detects fake news on 	**financial websites** that may manipulate stock prices, helping safeguard investors and analysts.
+* Supports Media Verification: Assists 	**journalists** and fact-checkers by pre-screening political statements for quicker and more accurate verification.
+* Streamlines Customer Support: Identifies fraudulent or irrelevant queries early, optimizing 	**ticket handling processes** and ensuring regulatory compliance.
 
-* Protects Brand Reputation: Monitor reviews and social media to spot fake claims, enabling quick PR response.(review bombing)
-* Content Moderation: Automatically flag suspicious posts on social platforms and e-commerce sites to curb misinformation and fraud.
-* Financial Intelligence: Detect fake news in financial web-sites to influence stock prices and protect investors and analysts from market manipulation.
-* Media Verification: Support journalists and fact-checkers by pre-screening content for faster verification.
-* Customer Support: Identify fraudulent queries to streamline ticket handling and compliance checks.
 
 Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
 

@@ -58,9 +58,12 @@ While promising, the model still needs improvement to reach real-world reliabili
 * Machine Learning Algorithms
 
 # 9.Benefits to the Business World
-* Brand Reputation: Monitor reviews and social media to spot fake claims, enabling quick PR response.
+
+By detecting fake news and comments, we aim to address real-world problems such as misinformation spread, brand reputation damage, market manipulation, and inefficient content moderation and fraudulent queries..
+
+* Protects Brand Reputation: Monitor reviews and social media to spot fake claims, enabling quick PR response.(review bombing)
 * Content Moderation: Automatically flag suspicious posts on social platforms and e-commerce sites to curb misinformation and fraud.
-* Financial Intelligence: Detect fake news influencing stock prices to protect investors and analysts from market manipulation.
+* Financial Intelligence: Detect fake news in financial web-sites to influence stock prices and protect investors and analysts from market manipulation.
 * Media Verification: Support journalists and fact-checkers by pre-screening content for faster verification.
 * Customer Support: Identify fraudulent queries to streamline ticket handling and compliance checks.
 
@@ -70,5 +73,9 @@ My Website:https://alptheanalyst.wixsite.com/alptuna
 
 My E-Mail:alptuna.professional@gmail.com
 
-Link for the Colab file:https://colab.research.google.com/drive/1oXrwRaj9hJYkiJVktSucdZ0gkGIsQ_VA 
+Link for the Colab file:https://colab.research.google.com/drive/1oXrwRaj9hJYkiJVktSucdZ0gkGIsQ_VA ü
+
+Credits: Special thanks to Kunwar Madan(DBS-Senior Lecturer in Computing) who introduced us with this subject and broaden our minds.
+
+
 

@@ -81,7 +81,9 @@ My E-Mail:alptuna.professional@gmail.com
 Link for the Colab file:https://colab.research.google.com/drive/1oXrwRaj9hJYkiJVktSucdZ0gkGIsQ_VA 
 
 Data Sets
+
 train:https://github.com/TheAnalystAlp/Fake-News-Detection-Using-Text-Mining-Classification-Techniques-/blob/main/train.csv
+
 real_life_test:https://github.com/TheAnalystAlp/Fake-News-Detection-Using-Text-Mining-Classification-Techniques-/blob/main/real_life_test.csv
 
 Credits: Special thanks to Kunwar Madan(DBS-Senior Lecturer in Computing) who introduced us with this subject and broaden our minds.

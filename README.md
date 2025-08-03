@@ -1,5 +1,4 @@
 <img width="1920" height="1080" alt="Copy of SURVEY ANALYSIS DASHBOARD SLIDES FINAL" src="https://github.com/user-attachments/assets/6fe4cf38-ee77-42c1-b23a-b68ff030b9db" />
-
 # 1.Background of the project
 In today’s digital landscape, misinformation and fake news spread rapidly, impacting public opinion, brand reputation, and even financial markets. Political statements, in particular, are often scrutinized, and misleading content can have serious social and economic consequences. Our company needs a reliable solution to automatically flag potentially false or misleading political statements to support decision-making and protect stakeholders.
 

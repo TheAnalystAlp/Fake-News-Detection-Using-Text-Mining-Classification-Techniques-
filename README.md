@@ -56,7 +56,7 @@ While promising, the model still needs improvement to reach real-world reliabili
 
 # 9.Benefits to the Business World
 * Brand Reputation: Monitor reviews and social media to spot fake claims, enabling quick PR response.
-* * Content Moderation: Automatically flag suspicious posts on social platforms and e-commerce sites to curb misinformation and fraud.
+* Content Moderation: Automatically flag suspicious posts on social platforms and e-commerce sites to curb misinformation and fraud.
 * Financial Intelligence: Detect fake news influencing stock prices to protect investors and analysts from market manipulation.
 * Media Verification: Support journalists and fact-checkers by pre-screening content for faster verification.
 * Customer Support: Identify fraudulent queries to streamline ticket handling and compliance checks.

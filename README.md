@@ -15,10 +15,10 @@ Methodology
 •	Application of a cleaner function to process the “statement” column
 •	Dropping irrelevant columns to focus on textual content
 •	Binary label mapping for simplified classification
-2. Feature Extraction
+3. Feature Extraction
 •	TF-IDF Vectorization using unigrams and bigrams
 •	Minimum document frequency (min_df = 0.00163) to reduce noise and dimensionality
-3. Class Imbalance Handling
+5. Class Imbalance Handling
 •	SMOTE applied to training set to counter class imbalance
 
 Models Built
@@ -31,10 +31,10 @@ Random Forest Classifier
 •	Handles noisy text data better but is less interpretable
 •	Tuned using GridSearchCV with 5-fold cross-validation
 
-Model Performance
-Model	Accuracy	Precision	Recall	F1-Score
-Logistic Regression	66.76%	0.6610	0.6841	0.6724
-Random Forest	66.49%	0.6783	0.6737	0.6760
+Model Performances&Conclusion
+The Logistic Regression model achieves 66.8% accuracy with a higher recall rate, meaning it’s more effective at detecting fake news than alternatives tested.
+While promising, the model still needs improvement to reach real-world reliability thresholds.
+
 
 The Logistic Regression model achieves 66.8% accuracy with a higher recall rate, meaning it’s more effective at detecting fake news than alternatives tested.
 While promising, the model still needs improvement to reach real-world reliability thresholds.
@@ -46,10 +46,10 @@ Limitations
 •	Number Removal: Important numeric information (e.g., death tolls) was lost during preprocessing.
 
  Future Improvements
-•	Use contextual embeddings like Word2Vec, GloVe, or transformer models (e.g., BERT) for semantic understanding.
-•	Include metadata features (e.g., speaker, party affiliation, source credibility).
-•	Implement ensemble methods or neural networks for improved performance.
-•	Improve performance thresholds (current accuracy ~0.70 is insufficient for real-world use).
+ •	Use contextual embeddings like Word2Vec, GloVe, or transformer models (e.g., BERT) for semantic understanding.
+ •	Include metadata features (e.g., speaker, party affiliation, source credibility).
+ •	Implement ensemble methods or neural networks for improved performance.
+ •	Improve performance thresholds (current accuracy ~0.70 is insufficient for real-world use).
 
 Technologies Used
 •	Python (Pandas, NumPy, Scikit-learn, NLTK, SpaCy)
@@ -64,4 +64,12 @@ Benefits to the Business World
 •	Financial Intelligence: Detect fake news influencing stock prices to protect investors and analysts from market manipulation.
 •	Media Verification: Support journalists and fact-checkers by pre-screening content for faster verification.
 •	Customer Support: Identify fraudulent queries to streamline ticket handling and compliance checks.
+
+Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
+
+My Website:https://alptheanalyst.wixsite.com/alptuna
+
+My E-Mail:alptuna.professional@gmail.com
+
+Link for Power BI file https://colab.research.google.com/drive/1Q6cBY6J0jzbqJPBH8EROzyg9HDgf1kiU?usp=sharing
 

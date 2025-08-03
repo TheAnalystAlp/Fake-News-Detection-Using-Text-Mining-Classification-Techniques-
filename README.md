@@ -2,7 +2,7 @@ Background of the project
 In today’s digital landscape, misinformation and fake news spread rapidly, impacting public opinion, brand reputation, and even financial markets. Political statements, in particular, are often scrutinized, and misleading content can have serious social and economic consequences. Our company needs a reliable solution to automatically flag potentially false or misleading political statements to support decision-making and protect stakeholders.
 
 Problem Statement
-•	Manual fact-checking is time-consuming, costly, and unable to keep up with the volume of political content online.
+•Manual fact-checking is time-consuming, costly, and unable to keep up with the volume of political content online.
 •	Misinformation damages public trust and can lead to reputational risk and financial loss.
 •	Current tools lack specificity or accuracy in identifying fake news in political texts.
  

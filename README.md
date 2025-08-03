@@ -1,4 +1,4 @@
-                     <img width="721" height="107" alt="Fake News Banner" src="https://github.com/user-attachments/assets/591cc2d1-bcce-4563-ac42-1a18da0fb707" />
+<img width="721" height="107" alt="Fake News Banner" src="https://github.com/user-attachments/assets/591cc2d1-bcce-4563-ac42-1a18da0fb707" />
 
 # 1.Background of the project
 

@@ -35,12 +35,10 @@ b.Random Forest Classifier
 * Tuned using GridSearchCV with 5-fold cross-validation
 
 # 5.Model Performances&Conclusion
-The Logistic Regression model achieves 66.8% accuracy with a higher recall rate, meaning it’s more effective at detecting fake news than the other alternatives tested.
-While promising, the model still needs improvement to reach real-world reliability thresholds.
+After analyzing the dataset, we observed that misleading political statements often used vague or emotionally charged language. The Logistic Regression model, with 66.8% accuracy and strong recall, performed best at identifying such patterns compared to other models. While promising, the results highlight the need for more advanced, context-aware models to achieve real-world reliability.
 
-
-
-
+Here is the predictions of a saved model.(based on the test data sef LIARS2 Data Set)
+<img width="1359" height="319" alt="image" src="https://github.com/user-attachments/assets/379c5b69-bc67-4a8e-873e-5883a43304f2" />
 
 # 6.Limitations
 * Loss of Nuance: Binary classification removes subtlety from the original 6-level labels.

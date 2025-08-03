@@ -63,7 +63,7 @@ Here is the predictions of a saved model.(based on the real_life_test Data Set-*
 * Machine Learning Algorithms
 
 # 9.Benefits to the Business World-(If applied)
-By detecting fake news and comments, we aim to address real-world problems such as misinformation spread,brand reputation damage, market manipulation, and inefficient content moderation and fraudulent queries..
+By detecting fake news and comments, we may even address real-world business problems such as misinformation spread,brand reputation damage, market manipulation, and inefficient content moderation and fraudulent queries..
 
 * Protects Brand Reputation: Monitors reviews and 	** **social media platforms** to detect fake claims and review bombing, enabling timely PR responses.
 * Improves Content Moderation: Automatically flags suspicious or misleading posts on 	**social platforms** and 	**e-commerce sites** to reduce misinformation and fraud.

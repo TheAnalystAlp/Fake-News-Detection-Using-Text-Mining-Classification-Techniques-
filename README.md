@@ -37,7 +37,7 @@ b.Random Forest Classifier
 # 5.Model Performances&Conclusion
 After analyzing the dataset, we observed that misleading political statements often used vague or emotionally charged language. The Logistic Regression model, with 66.8% accuracy and strong recall, performed best at identifying such patterns compared to other models. While promising, the results highlight the need for more advanced, context-aware models to achieve real-world reliability.
 
-Here is the predictions of a saved model.(based on the test data sef LIARS2 Data Set)
+Here is the predictions of a saved model.(based on the test data set LIARS2 Data Set)
 <img width="1364" height="320" alt="image" src="https://github.com/user-attachments/assets/99f9f59a-5aac-4715-93da-4f9341f73a6e" />
 
 

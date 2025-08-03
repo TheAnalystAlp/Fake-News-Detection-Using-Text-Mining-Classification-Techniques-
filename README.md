@@ -4,7 +4,7 @@
 
 In today’s digital landscape, misinformation and fake news spread rapidly, impacting public opinion, brand reputation, and even financial markets. Political statements, in particular, are often scrutinized, and misleading content can have serious social and economic consequences. Our public relations company needs a reliable solution to automatically flag potentially false or misleading political statements to support decision-making and protect stakeholders.
 
-# 2.Problems the is Company facing
+# 2.Problems the Company Is Facing
 * Manual fact-checking is time-consuming, costly, and unable to keep up with the volume ofcontent online.
 * Misinformation damages public trust and can lead to reputational risk.
 * Current tools lack specificity or accuracy in identifying fake news in political texts.
@@ -24,7 +24,7 @@ b. Feature Extraction
 c. Class Imbalance Handling
 *  MOTE applied to training set to counter class imbalance
 
-# 4.Models Built 
+# 4.Models Built(below models are commonly used text classification)
 a.Logistic Regression
 * Performs well on high-dimensional sparse data
 * Interpretable and computationally efficient
@@ -37,7 +37,7 @@ b.Random Forest Classifier
 # 5.Model Performances&Conclusion
 After analyzing the dataset, we observed that misleading political statements often used vague or emotionally charged language. The Logistic Regression model, with 66.8% accuracy and strong recall, performed best at identifying such patterns compared to other models. While promising, the results highlight the need for more advanced, context-aware models to achieve real-world reliability.
 
-Here is the predictions of a saved model.(based on the test data set LIARS2 Data Set)
+Here is the predictions of a saved model.(based on the real_life_test Data Set-*new data set for prediction*)
 <img width="1364" height="320" alt="image" src="https://github.com/user-attachments/assets/99f9f59a-5aac-4715-93da-4f9341f73a6e" />
 
 

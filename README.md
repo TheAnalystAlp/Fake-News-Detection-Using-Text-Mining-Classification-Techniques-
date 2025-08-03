@@ -67,5 +67,5 @@ My Website:https://alptheanalyst.wixsite.com/alptuna
 
 My E-Mail:alptuna.professional@gmail.com
 
-Link for Power BI file https://colab.research.google.com/drive/1Q6cBY6J0jzbqJPBH8EROzyg9HDgf1kiU?usp=sharing
+Link for the Colab file:https://colab.research.google.com/drive/1oXrwRaj9hJYkiJVktSucdZ0gkGIsQ_VA 
 

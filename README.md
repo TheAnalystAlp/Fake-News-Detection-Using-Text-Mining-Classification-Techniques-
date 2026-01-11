@@ -74,13 +74,13 @@ By detecting fake news and comments, we may even address real-world business pro
 
 Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
 
-My Website:https://alptheanalyst.wixsite.com/alptuna
+** My Website **:https://alptheanalyst.wixsite.com/alptuna
 
-My E-Mail:alptuna.professional@gmail.com
+** My E-Mail **:alptuna.professional@gmail.com
 
-Link for the Colab file:https://colab.research.google.com/drive/1oXrwRaj9hJYkiJVktSucdZ0gkGIsQ_VA 
+** Link for the Colab file** :https://colab.research.google.com/drive/1oXrwRaj9hJYkiJVktSucdZ0gkGIsQ_VA 
 
-Credits: Special thanks to Kunwar Madan (DBS – Senior Lecturer in Computing) for his guidance, feedback, and academic support throughout the development of this project.
+** Credits **s: Special thanks to Kunwar Madan (DBS – Senior Lecturer in Computing) for his guidance, feedback, and academic support throughout the development of this project.
 
 
 

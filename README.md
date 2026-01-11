@@ -80,7 +80,7 @@ By detecting fake news and comments, we may even address real-world business pro
 
 **Link for the Colab file:** https://colab.research.google.com/drive/1oXrwRaj9hJYkiJVktSucdZ0gkGIsQ_VA 
 
-**Credits:** Special thanks to Kunwar Madan (DBS – Senior Lecturer in Computing) for his guidance, feedback, and academic support throughout the development of this project.
+**Credits:** Special thanks to Kunwar Madan (DBS – Senior Lecturer in Computing) for the introduction of this subject.
 
 
 

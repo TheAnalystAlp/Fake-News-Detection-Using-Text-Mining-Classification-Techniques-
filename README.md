@@ -13,7 +13,7 @@ In today’s digital landscape, misinformation and fake news spread rapidly, imp
 * Current tools lack specificity or accuracy in identifying fake news in political texts.
  
 # 3.Method of Approach 
-a.Data Preprocessing
+Data Preprocessing
 * HTML tag cleaning using BeautifulSoup
 * Text normalization and noise removal (e.g., mentions, URLs, special characters)
 * Tokenization, lowercasing, stopword removal

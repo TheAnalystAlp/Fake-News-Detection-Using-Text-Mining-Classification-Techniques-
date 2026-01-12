@@ -3,6 +3,8 @@
 
 Full report:https://github.com/TheAnalystAlp/Fake-News-Detection-Using-Text-Mining-Classification-Techniques-/blob/main/Fake%20News%20Detection%20Using%20Text%20Mining%26Classification%20Techniques.pdf
 
+# Fake News Detection Using Text Mining Techniques
+
 # 1.Background of the project
 
 In today’s digital landscape, misinformation and fake news spread rapidly, impacting public opinion, brand reputation, and even financial markets. Political statements, in particular, are often scrutinized, and misleading content can have serious social and economic consequences. Our public relations company needs a reliable solution to automatically flag potentially false or misleading political statements to support decision-making and protect stakeholders.
